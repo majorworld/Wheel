@@ -6,9 +6,9 @@ Wheel最新版本号2.1
 [腾讯微云](https://share.weiyun.com/EoHvFhk7)
 
 ## 2.功能
-![说明窗口](https://meta.appinn.net/uploads/default/original/2X/4/4572013a2fc511623aae72fe9903defe7235a3ba.png)
+![说明窗口](https://meta.appinn.net/uploads/default/original/2X/e/e0e70db26f0048345e2f2be4f4e5c2b4e5480acd.png)
 
-[说明窗口](https://meta.appinn.net/uploads/default/original/2X/4/4572013a2fc511623aae72fe9903defe7235a3ba.png)
+[说明窗口](https://meta.appinn.net/uploads/default/original/2X/e/e0e70db26f0048345e2f2be4f4e5c2b4e5480acd.png)
 
 ![绑定脚本](https://meta.appinn.net/uploads/default/original/2X/3/392fbe7539d0d962cb9942a78b2dd4879184aff3.png)
 
