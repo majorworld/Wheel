@@ -3,7 +3,8 @@ Wheel最新版本号2.1
 
 ## 1.下载
 
-[腾讯微云](https://share.weiyun.com/EoHvFhk7)
+[腾讯微云](https://share.weiyun.com/RM8wteYl)
+链接一直放错了，才发现。。。
 
 ## 2.功能
 ![说明窗口](https://meta.appinn.net/uploads/default/original/2X/e/e0e70db26f0048345e2f2be4f4e5c2b4e5480acd.png)
