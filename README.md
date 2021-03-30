@@ -4,7 +4,6 @@ Wheel最新版本号2.1
 ## 1.下载
 
 [腾讯微云](https://share.weiyun.com/RM8wteYl)
-链接一直放错了，才发现。。。
 
 ## 2.功能
 ![说明窗口](https://meta.appinn.net/uploads/default/original/2X/e/e0e70db26f0048345e2f2be4f4e5c2b4e5480acd.png)
@@ -17,7 +16,7 @@ Wheel最新版本号2.1
 
 ## 3.打赏
 
-![打赏二维码](https://ftp.bmp.ovh/imgs/2020/10/da0571167dd7e4d3.png)
+![打赏二维码](https://s1.ax1x.com/2020/10/11/0cXcRO.png)
 
 [打赏二维码](https://s1.ax1x.com/2020/10/11/0cXcRO.png)
 
