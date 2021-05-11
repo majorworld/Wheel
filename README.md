@@ -9,13 +9,13 @@ Wheel最新版本号3.1
 
 ### 新增复制工具
 
-![说明窗口](https://imgtu.com/i/gdFHUI)
+![说明窗口](https://z3.ax1x.com/2021/05/11/gdFHUI.png)
 
-[说明窗口](https://imgtu.com/i/gdFHUI)
+[说明窗口](https://z3.ax1x.com/2021/05/11/gdFHUI.png)
 
-![配置文件](https://imgtu.com/i/gdFX28)
+![配置文件](https://z3.ax1x.com/2021/05/11/gdFX28.png)
 
-[配置文件](https://imgtu.com/i/gdFX28)
+[配置文件](https://z3.ax1x.com/2021/05/11/gdFX28.png)
 
 ## 3.打赏
 
