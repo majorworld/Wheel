@@ -1,4 +1,4 @@
-Wheel最新版本号2.1
+Wheel最新版本号3.1
 ====
 
 ## 1.下载
@@ -6,13 +6,16 @@ Wheel最新版本号2.1
 [腾讯微云](https://share.weiyun.com/RM8wteYl)
 
 ## 2.功能
-![说明窗口](https://meta.appinn.net/uploads/default/original/2X/e/e0e70db26f0048345e2f2be4f4e5c2b4e5480acd.png)
 
-[说明窗口](https://meta.appinn.net/uploads/default/original/2X/e/e0e70db26f0048345e2f2be4f4e5c2b4e5480acd.png)
+### 新增复制工具
 
-![绑定脚本](https://meta.appinn.net/uploads/default/original/2X/3/392fbe7539d0d962cb9942a78b2dd4879184aff3.png)
+![说明窗口](https://imgtu.com/i/gdFHUI)
 
-[绑定脚本](https://meta.appinn.net/uploads/default/original/2X/3/392fbe7539d0d962cb9942a78b2dd4879184aff3.png)
+[说明窗口](https://imgtu.com/i/gdFHUI)
+
+![配置文件](https://imgtu.com/i/gdFX28)
+
+[配置文件](https://imgtu.com/i/gdFX28)
 
 ## 3.打赏
 
